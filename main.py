@@ -1,7 +1,6 @@
 import PyPDF2
 from tkinter import *
 from tkinter import filedialog
-import time
 
 def browseFile(file, pdfFiles):
     global no_of_files, lbl
